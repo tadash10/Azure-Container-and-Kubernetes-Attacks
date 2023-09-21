@@ -101,4 +101,16 @@ Functions
 
     
 
+## Disclaimer
+
+This script is provided for educational and testing purposes only. It is intended to assist security professionals in assessing and enhancing the security of Azure environments. Usage of this script on any Azure resources or environments without proper authorization is strictly prohibited.
+
+**Please use this script responsibly and ethically:**
+
+- Ensure that you have obtained explicit authorization from the Azure resource owner or administrator before conducting any security assessments or tests.
+- Use this script only in controlled, non-production environments designated for security testing.
+- Do not use this script for any malicious, harmful, or illegal activities.
+- Be aware that unauthorized or improper use of this script may violate applicable laws and regulations.
+
+The authors and contributors of this script are not responsible for any misuse or damage caused by the script. By using this script, you agree to the terms and responsibilities outlined in this disclaimer.
 
