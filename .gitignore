@@ -1,0 +1,19 @@
+# .gitignore
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+
+# Add other specific files or directories as needed
